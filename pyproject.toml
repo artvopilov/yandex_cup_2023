@@ -20,6 +20,7 @@ catalyst = "^22.4"
 loguru = "^0.7.2"
 hnswlib = "^0.7.0"
 implicit = "^0.7.2"
+catboost = "^1.2.2"
 
 
 [build-system]

@@ -4,5 +4,7 @@
 
 .python-version
 
+*catboost_info/
+
 *.csv
 *.npy
